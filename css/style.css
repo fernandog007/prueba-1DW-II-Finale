@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600&family=Oswald:wght@200;400;500;700&display=swap');
+:root{
+	--color-subtitulos-general: #888585;
+	--color-titulos: #3c3838;
+	--color-numeros: #e6e8eb;
+	--color-azul: #19adf4;
+	--fondo-gris: #f3f3f3;
+	--fondo-footer: #383737;
+	--color-footer:#fff;
+	--color-parrafos:#383737;
+	
+h2,h4,h5,h6{
+	color: var(--color-titulos);
+}
+
+hero {
+	background-image: url("../img/"../../../../DW II/Prueba-1/Prueba/img/header_bg.jpg"");
+		
+	}	
